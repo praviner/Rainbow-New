@@ -7,6 +7,7 @@ green
 red
 Blue
 Yellow
+Indigo
 
 Here I have added from Git Bash on my Windows 10
 
